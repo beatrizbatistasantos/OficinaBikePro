@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OficinaBikePro", "OficinaBikePro.csproj", "{009B532B-21D2-44D9-9165-A8816F30028A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009B532B-21D2-44D9-9165-A8816F30028A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009B532B-21D2-44D9-9165-A8816F30028A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009B532B-21D2-44D9-9165-A8816F30028A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009B532B-21D2-44D9-9165-A8816F30028A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43D1A204-7282-416B-8A36-FD1E457C961F}
+	EndGlobalSection
+EndGlobal
